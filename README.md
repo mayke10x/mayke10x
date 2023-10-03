@@ -29,4 +29,3 @@ Sou apaixonado em tecnologias e fascinado no que podemos construir de legal com 
 
 ##  🗣 Conecte-se Comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=social&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/maycon-douglas-b8a61321b/)
-[![Github](https://img.shields.io/badge/Github-0?style=social&logo=Github&logoColor=fffff&color=000)](https://www.github.com/mayke10x)
